@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource>
+	<!--格式说明-->
+	<!--图片集-->
+	<!-- <Imageset file="game.plist"/> -->
+	<!--动画集-->
+	<!-- <Animations file="animations.plist"/> -->
+	<!--自定义动画-->
+	<!-- <CustomAnim name="test1" col="4" row="1" delay="0.2" loop="1" file="Stand.png"/> -->	
+	<!--格式说明-->
+
+	<Imageset file="game.plist"/>
+	<Imageset file="menu.plist"/>
+	
+</Resource>
