@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Actor">
+      <UniqueIdentifier>{45faa9c5-48bc-4de5-8978-1f6601ae0b2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Actor\Weapon">
+      <UniqueIdentifier>{fa7d1ea9-fb38-49a6-83d1-2c7b5e13fe6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Scene">
+      <UniqueIdentifier>{ac44b9c4-fbf9-4f9b-9f62-d5a4a563f5e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Sneaky">
+      <UniqueIdentifier>{027ed2eb-2f8c-44ea-b2b1-e189b218034d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameRoot.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Actor\Carrot.cpp">
+      <Filter>src\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Actor\Enemy.cpp">
+      <Filter>src\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Actor\Hero.cpp">
+      <Filter>src\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Actor\Weapon\Bullet.cpp">
+      <Filter>src\Actor\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Actor\Weapon\Hoe.cpp">
+      <Filter>src\Actor\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Actor\Weapon\Weapon.cpp">
+      <Filter>src\Actor\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\GameLayer.cpp">
+      <Filter>src\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\GameMap.cpp">
+      <Filter>src\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\HudLayer.cpp">
+      <Filter>src\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\SceneGame.cpp">
+      <Filter>src\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Sneaky\SneakyButton.cpp">
+      <Filter>src\Sneaky</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Sneaky\SneakyButtonSkinnedBase.cpp">
+      <Filter>src\Sneaky</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Sneaky\SneakyJoystick.cpp">
+      <Filter>src\Sneaky</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Sneaky\SneakyJoystickSkinnedBase.cpp">
+      <Filter>src\Sneaky</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Common.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameRoot.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Actor\Carrot.h">
+      <Filter>src\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Actor\Enemy.h">
+      <Filter>src\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Actor\Hero.h">
+      <Filter>src\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Actor\Weapon\Bullet.h">
+      <Filter>src\Actor\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Actor\Weapon\Hoe.h">
+      <Filter>src\Actor\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Actor\Weapon\Weapon.h">
+      <Filter>src\Actor\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\GameLayer.h">
+      <Filter>src\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\GameMap.h">
+      <Filter>src\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\HudLayer.h">
+      <Filter>src\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\SceneGame.h">
+      <Filter>src\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Sneaky\SneakyButton.h">
+      <Filter>src\Sneaky</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Sneaky\SneakyButtonSkinnedBase.h">
+      <Filter>src\Sneaky</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Sneaky\SneakyJoystick.h">
+      <Filter>src\Sneaky</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Sneaky\SneakyJoystickSkinnedBase.h">
+      <Filter>src\Sneaky</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

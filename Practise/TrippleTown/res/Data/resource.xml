@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resource>
+	<Image name="ui_login.xml"/>
+	<Image name="ui_world.xml"/>
+	<Image name="ui_item.xml"/>
+</Resource>

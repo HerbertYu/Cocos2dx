@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name="ui_login" Imagefile="ui_login.png">
+	<Image Name="bkimg" XPos="0" YPos="0" Width="800" Height="480" />
+	
+	<Image Name="setting_normal" XPos="0" YPos="480" Width="48" Height="48" />
+	<Image Name="setting_select" XPos="0" YPos="528" Width="48" Height="48" />
+	
+	<Image Name="rank_normal" XPos="48" YPos="480" Width="48" Height="48" />
+	<Image Name="rank_select" XPos="48" YPos="528" Width="48" Height="48" />
+	
+	<Image Name="startgame_normal" XPos="96" YPos="480" Width="200" Height="48" />
+	<Image Name="startgame_select" XPos="96" YPos="528" Width="200" Height="48" />
+	
+	<Image Name="coin" XPos="296" YPos="480" Width="48" Height="48" />
+</Imageset>

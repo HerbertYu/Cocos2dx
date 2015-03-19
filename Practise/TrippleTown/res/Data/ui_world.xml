@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name="ui_world" Imagefile="ui_world.png">
+	<Image Name="bkimg" XPos="0" YPos="0" Width="800" Height="480" />
+	
+	<Image Name="empty_0" XPos="0" YPos="490" Width="50" Height="50" />
+	<Image Name="empty_1" XPos="60" YPos="490" Width="50" Height="50" />
+	<Image Name="empty_20" XPos="120" YPos="490" Width="50" Height="50" />
+	<Image Name="empty_21" XPos="180" YPos="490" Width="50" Height="50" />
+	<Image Name="empty_3" XPos="240" YPos="490" Width="50" Height="50" />
+	<Image Name="empty_4" XPos="300" YPos="490" Width="50" Height="50" />
+	
+	<Image Name="floor" XPos="360" YPos="490" Width="50" Height="50" />
+	<Image Name="floor_fix" XPos="420" YPos="490" Width="50" Height="50" />
+	
+	
+	
+</Imageset>
